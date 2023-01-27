@@ -1,0 +1,15 @@
+name: pdel
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - h5py
+  - joblib
+  - matplotlib
+  - numpy
+  - pandas
+  - python=3.6
+  - scikit-learn
+  - scipy
+  - seaborn
+  - tqdm

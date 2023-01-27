@@ -1,0 +1,9 @@
+h5py
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+tqdm
