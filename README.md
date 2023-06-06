@@ -24,7 +24,7 @@ The codes provided need to be run sequentially to execute the above steps. The d
 ---
 ## 2. Spectral representation [Julia] 
 
-- If you do not have Julia 1.3 (or later), download it from: https://julialang.org/downloads/. Make sure the command `julia` works from the command line.
+- If you do not have Julia versions from 1.3 - 1.7, download it from: https://julialang.org/downloads/. Make sure the command `julia` works from the command line.
 
 - Navigate to the project folder through the command line. 
 
