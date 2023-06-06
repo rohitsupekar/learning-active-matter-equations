@@ -29,7 +29,7 @@ The codes provided need to be run sequentially to execute the above steps. The d
 - Navigate to the project folder through the command line. 
 
 - Saving spectral coefficients of the coarse-grained data: 
-    - Run <julia save_representation.jl>. This should run for a few mins. 
+    - Run `julia save_representation.jl`. This should run for a few mins. 
     - This will save the representations (spectral coefficients) in the files `data_representation_cheb_cheb_cheb_*.mat` for each field. 
 
 - Saving smooth data and time-derivative after imposing cut-offs on the coefficients:
